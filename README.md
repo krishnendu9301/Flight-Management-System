@@ -49,17 +49,6 @@ python flight_management.py
 
 ---
 
-📊 Sample Output
-Flights Table
- flight_id  airline   origin destination   departure         arrival     capacity   fare
-     2001   AirSwift  DEL    BLR           2025-10-01 09:00  2025-10-01 11:30   5   4500.0
-     
-Bookings Table
- booking_id flight_id passenger_name seat_no status      booking_date fare_paid
-     3001       2001  Riya Sen       1       CONFIRMED   2025-09-13   4500.0
-
----
-
 Charts
 Occupancy Pie Chart – Shows seat utilization.
 Revenue Histogram – Compares total revenue per flight.
