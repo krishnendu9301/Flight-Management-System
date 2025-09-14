@@ -49,16 +49,16 @@ python flight_management.py
 
 ---
 
-Charts
+## Charts
 Occupancy Pie Chart – Shows seat utilization.
 Revenue Histogram – Compares total revenue per flight.
 
 ---
 
-👤 Author
+## 👤 Author
 This project is solely developed and maintained by Krishnendu Mondal.
 
 ---
 
-📜 License
+## 📜 License
 This project is open for educational and personal use. Redistribution or modification is allowed with proper credit to the author.
