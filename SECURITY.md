@@ -15,7 +15,7 @@ Older versions will not receive patches.
 If you discover a security vulnerability in this project, please **report it responsibly**:
 
 1. **Do not open a public issue** for security problems.  
-2. **Contact the maintainer privately** via email: krishnendumondal2001@gmail.com  
+2. **Contact the maintainer privately** via email. 
 3. Include:  
    - Steps to reproduce the vulnerability  
    - Description of potential impact  
